@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 # 👋 ¡Hola! Soy Diego Ramírez
 
 Desarrollador Web Full Stack | Apasionado por la tecnología, la innovación y la ciberseguridad
 
 ---
 
-¿Prefieres leer en inglés? [Click here for the English version.](README.en.md)
+¿Prefer to read in english? [Click here for the English version.](README.en.md)
 
 ---
 
