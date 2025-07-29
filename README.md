@@ -1,6 +1,11 @@
-👋 ¡Hola! Soy Diego Ramírez
+<<<<<<< HEAD
+# 👋 ¡Hola! Soy Diego Ramírez
 
 Desarrollador Web Full Stack | Apasionado por la tecnología, la innovación y la ciberseguridad
+
+---
+
+¿Prefieres leer en inglés? [Click here for the English version.](README.en.md)
 
 ---
 
@@ -14,7 +19,7 @@ Desarrollador Web Full Stack | Apasionado por la tecnología, la innovación y l
 
 ---
 
-🚀 Tecnologías y Herramientas
+## 🚀 Tecnologías y Herramientas
 
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Vue.js
 - **Backend:** Node.js, Express, PHP, MySQL, MongoDB
@@ -23,7 +28,7 @@ Desarrollador Web Full Stack | Apasionado por la tecnología, la innovación y l
 
 ---
 
-📌 Proyectos Destacados
+## 📌 Proyectos Destacados
 
 - [🌟 Portafolio Web Personal](https://www.webdevdiegor005.com)  
   Mi sitio profesional donde muestro mis proyectos, habilidades y experiencia.
@@ -36,7 +41,7 @@ Desarrollador Web Full Stack | Apasionado por la tecnología, la innovación y l
 
 ---
 
-📫 Contacto
+## 📫 Contacto
 
 - 📧 Email: [metallica3999@gmail.com](mailto:metallica3999@gmail.com)
 - 💼 LinkedIn: [Diego Ramírez](https://www.linkedin.com/in/diego-ramírez-67b227238)
@@ -44,7 +49,7 @@ Desarrollador Web Full Stack | Apasionado por la tecnología, la innovación y l
 
 ---
 
-⚡ Curiosidades
+## ⚡ Curiosidades
 
 - Fan de la música, especialmente Metallica 🤘
 - Siempre entrego mis proyectos a tiempo, ¡como buen repartidor de comida en mis inicios!
