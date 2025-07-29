@@ -1,12 +1,50 @@
-- 👋 Hi, I’m @Diego005Dev
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Cyber Security
-- 💞️ I’m looking to collaborate on freelance proyects
-- 📫 How to reach me www.linkedin.com/in/diego-ramírez-67b227238
-- 😄 Pronouns: The Go Diego Go
-- ⚡ Fun fact: I'm a good food delivery guy
+👋 ¡Hola! Soy Diego Ramírez
 
-<!---
-Diego005Dev/Diego005Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Desarrollador Web Full Stack | Apasionado por la tecnología, la innovación y la ciberseguridad
+
+---
+
+## Sobre mí
+
+¡Bienvenido a mi repositorio! Soy Diego Ramírez, un desarrollador web mexicano con experiencia creando soluciones digitales a medida. Me especializo en el desarrollo de aplicaciones web modernas, seguras y escalables, siempre buscando aprender y aplicar las mejores prácticas del sector.
+
+- 🎯 Enfocado en el crecimiento profesional y la mejora continua.
+- 🌐 Amante de la tecnología, la seguridad informática y el aprendizaje autodidacta.
+- 🤝 Disfruto colaborar en proyectos que representen un reto y aporten valor real.
+
+---
+
+🚀 Tecnologías y Herramientas
+
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Vue.js
+- **Backend:** Node.js, Express, PHP, MySQL, MongoDB
+- **DevOps:** Git, GitHub, Docker
+- **Otros:** WordPress, SEO, Responsive Design, Seguridad Web
+
+---
+
+📌 Proyectos Destacados
+
+- [🌟 Portafolio Web Personal](https://www.webdevdiegor005.com)  
+  Mi sitio profesional donde muestro mis proyectos, habilidades y experiencia.
+
+- **E-commerce Personalizados**  
+  Desarrollo de tiendas online con integración de pagos y panel de administración.
+
+- **Aplicaciones Web a Medida**  
+  Soluciones para clientes de distintas industrias, optimizadas para rendimiento y seguridad.
+
+---
+
+📫 Contacto
+
+- 📧 Email: [metallica3999@gmail.com](mailto:metallica3999@gmail.com)
+- 💼 LinkedIn: [Diego Ramírez](https://www.linkedin.com/in/diego-ramírez-67b227238)
+- 🌐 Portafolio: [webdevdiegor005.com](https://www.webdevdiegor005.com)
+
+---
+
+⚡ Curiosidades
+
+- Fan de la música, especialmente Metallica 🤘
+- Siempre entrego mis proyectos a tiempo, ¡como buen repartidor de comida en mis inicios!
