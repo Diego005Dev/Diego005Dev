@@ -4,7 +4,7 @@ Full Stack Web Developer | Passionate about technology, innovation, and cybersec
 
 ---
 
-Prefer to read in Spanish? [Haz clic aquí para la versión en español.](README.md)
+Prefieres verlo en español? [Haz clic aquí para la versión en español.](README.md)
 
 ---
 
